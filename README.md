@@ -1,14 +1,14 @@
-# the Harvestment-tool 🌿
+# HARVESTIFY 🌿
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
 
 
-#### This project is learnt from  [Krish Naik's Youtube Channel](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
+<!-- #### This project is learnt from  [Krish Naik's Youtube Channel](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)  -->
 
 
 ## Screenshots of my implementation of concept:
 
-[1]. here's the proof of runnning cloud Screenshots
+[1]. here's the proof of runnning AWS cloud Screenshots
 
 
 
@@ -24,7 +24,7 @@ Solution:
 ![Alt Text](Screenshot3.png)
 
 
-[3] Deployment of Site:
+[3] Deployment of Site (Currently site is not working due to Expire of Free Excesses ): It is totally runned on EC2 instance of Aws.
 
 
 ![Alt Text](Screenshot4.png)
